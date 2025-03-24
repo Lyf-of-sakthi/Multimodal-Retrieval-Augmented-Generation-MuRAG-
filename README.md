@@ -1,7 +1,7 @@
 # Multimodal RAG Assistant
 
 ## Overview
-The **Multimodal Retrieval-Augmented Generation (RAG) Assistant** is a system that extracts and retrieves relevant text and image information from PDFs and generates responses based on user queries. It combines **DeepSeek-R1-Distill-Qwen-1.5B** for text processing and **BLIP** for image captioning.
+The **Multimodal Retrieval-Augmented Generation (RAG) Assistant** is a system that extracts and retrieves relevant text and image information from PDFs and generates responses based on user queries. It combines **DeepSeek-R1-Distill-Qwen-1.5B** for text processing and **Salesforce BLIP Image Captioning Large** model for image captioning.
 
 ## Features
 - **PDF Processing**: Extracts text and images from PDFs using PyMuPDF (fitz).

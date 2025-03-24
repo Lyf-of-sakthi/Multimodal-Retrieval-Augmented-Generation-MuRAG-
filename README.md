@@ -65,7 +65,7 @@ IMAGE_CAPTION_MODEL = "BLIP"
 ## Output Example
 Here’s an example of the assistant in action:
 
-![Multimodal RAG Output](images/output.png)
+![Multimodal RAG Output](output.png)
 
 
 ## Roadmap

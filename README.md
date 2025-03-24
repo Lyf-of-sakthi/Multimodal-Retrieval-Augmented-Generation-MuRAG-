@@ -62,6 +62,12 @@ LLM_MODEL = "DeepSeek-R1-Distill-Qwen-1.5B"
 IMAGE_CAPTION_MODEL = "BLIP"
 ```
 
+## Output Example
+Here’s an example of the assistant in action:
+
+![Multimodal RAG Output]("C:\Users\Sakthi\OneDrive\Pictures\Screenshots\Screenshot 2025-03-10 005028.png")
+
+
 ## Roadmap
 - [ ] Implement multilingual support
 - [ ] Improve response ranking with Rerankers

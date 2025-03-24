@@ -1,0 +1,10 @@
+torch==2.1.0 
+torchvision==0.16.0
+torchaudio==2.1.0
+transformers==4.38.1
+sentence-transformers==2.2.2
+langchain==0.1.13
+qdrant-client==1.7.1
+faiss-cpu==1.7.4 
+pymupdf==1.23.6
+flet==0.22.0
